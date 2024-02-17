@@ -11,25 +11,25 @@ Soy una desarrolladora web en aprendizaje, aquí iré subiendo los proyectos y c
 ## Conocimientos y aprendizaje:
 
 ### Lenguajes de Programación:
-- Java 
-- JavaScript 
-- PHP 
-- Python 
+- ![Java](java.png) Java 
+- ![JavaScript](javascript.png) JavaScript 
+- ![PHP](php.png) PHP 
+- ![Python](python.png) Python 
 
 ### Frameworks y Bibliotecas:
-- Node.js 
-- .NET 
-- React
+- ![Node.js](node.js.png) Node.js 
+- ![.NET](.net.png) .NET 
+- ![React](react.png) React
 
 ### Tecnologías Web:
-- HTML5
-- CSS3 
-- Bootstrap 
+- ![HTML5](html5.png) HTML5
+- ![CSS3](css3.png) CSS3 
+- ![Bootstrap](bootstrap.png) Bootstrap 
 
 ### Herramientas y Tecnologías Adicionales:
-- Docker 
+- ![Docker](docker.png) Docker 
 
 ### En Proceso de Aprendizaje:
-- .NET (en proceso de aprendizaje)
-- Node.js (en proceso de aprendizaje)
-- Python (en proceso de aprendizaje) 
+- ![.NET](.net.png) .NET (en proceso de aprendizaje)
+- ![Node.js](node.js.png) Node.js (en proceso de aprendizaje)
+- ![Python](python.png) Python (en proceso de aprendizaje)
